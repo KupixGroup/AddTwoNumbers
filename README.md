@@ -1,9 +1,9 @@
 # AddTwoNumbers
 ```console
-go run main.go
+$ go run main.go
 ````
 ```console
-go test
+$ go test
 ````
 
 ## Add Two Numbers
